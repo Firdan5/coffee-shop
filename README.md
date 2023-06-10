@@ -12,8 +12,14 @@
 ## Screens
 
 ## FirsPage
-<img src="images/firstpage.jpeg" alt="screen image" width="200" height="400"> ## HomePage <img src="images/homepage.jpeg" alt="screen image" width="200" height="400">
-## SellPage <img src="images/sellpage.jpeg" alt="screen image" width="200" height="400"> <img src="images/succes.jpeg" alt="screen image" width="200" height="400"> 
+<img src="images/firstpage.jpeg" alt="screen image" width="200" height="400">
+
+## HomePage 
+<img src="images/homepage.jpeg" alt="screen image" width="200" height="400">
+
+## SellPage 
+<img src="images/sellpage.jpeg" alt="screen image" width="200" height="400"> 
+<img src="images/succes.jpeg" alt="screen image" width="200" height="400"> 
 
 
 
